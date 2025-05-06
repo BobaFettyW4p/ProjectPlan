@@ -4,11 +4,11 @@
 ### Deliverables:
 | Component       | Implemented | Tested |
 |-----------------|-------------|--------|
-| client service  | [ ]          | [ ]     |
-| REST service    | [ ]          | [ ]     |
-| Redis instance  | [ ]          | [ ]     |
-| Task dispatcher | [ ]          | [ ]     |
-| local worker    | [ ]          | [ ]     |
+| client service  | - [ ]          | - [ ]     |
+| REST service    | - [ ]          | - [ ]     |
+| Redis instance  | - [ ]          | - [ ]     |
+| Task dispatcher | - [ ]          | - [ ]     |
+| local worker    | - [ ]          | - [ ]     |
 
 A component will be considered to be fully "implemented" when it properly working and incorporates all of the needed requirements outlined below.
 
@@ -90,11 +90,11 @@ We will have a working infrastructure that will:
 ### Deliverables
 | Component                     | Status | Tested |
 |-------------------------------|--------|--------|
-| Pull worker                   | [ ]     | [ ]     |
-| Push worker                   | [ ]     | [ ]     |
-| Task scheduler support - pull | [ ]     | [ ]     |
-| Task scheduler support - push | [ ]     | [ ]     |
-| Fault tolerance               | [ ]     | [ ]     |
+| Pull worker                   | - [ ]     | - [ ]     |
+| Push worker                   | - [ ]     | - [ ]     |
+| Task scheduler support - pull | - [ ]     | - [ ]     |
+| Task scheduler support - push | - [ ]     | - [ ]     |
+| Fault tolerance               | - [ ]     | - [ ]     |
 
 #### Pull worker
 
@@ -142,11 +142,11 @@ We will have a working infrastructure that will:
 
 | Component                | Status |
 |--------------------------|--------|
-| Finalized testing        | [ ]     |
-| Finalized error handling | [ ]     |
-| Performance Report       | [ ]     |
-| Technical Report         | [ ]     |
-| Testing Report           | [ ]     | 
+| Finalized testing        | - [ ]     |
+| Finalized error handling | - [ ]     |
+| Performance Report       | - [ ]     |
+| Technical Report         | - [ ]     |
+| Testing Report           | - [ ]     | 
 
 ## Finalized testing and error handling
 
