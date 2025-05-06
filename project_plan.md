@@ -143,11 +143,11 @@ We will have a working infrastructure that will:
 
 | Component                | Status |
 |--------------------------|--------|
-| Finalized testing        | - [ ]     |
-| Finalized error handling | - [ ]     |
-| Performance Report       | - [ ]     |
-| Technical Report         | - [ ]     |
-| Testing Report           | - [ ]     | 
+| Finalized testing        |      |
+| Finalized error handling |      |
+| Performance Report       |      |
+| Technical Report         |      |
+| Testing Report           |      | 
 
 ## Finalized testing and error handling
 
